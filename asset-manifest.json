@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5a5f50ec.css",
+    "main.js": "/static/js/main.23e7ae6d.js",
+    "static/media/first.jpg": "/static/media/first.918598f1aab2431b9c50.jpg",
+    "static/media/guitarra.jpg": "/static/media/guitarra.918598f1aab2431b9c50.jpg",
+    "static/media/fourth.jpg": "/static/media/fourth.33f7e45ac222114d4614.jpg",
+    "static/media/moment5.jpg": "/static/media/moment5.c498023770784f8b8b15.jpg",
+    "static/media/moment1.jpg": "/static/media/moment1.dc6d2cf30e48ad5565bb.jpg",
+    "static/media/moment2.jpg": "/static/media/moment2.81e6701257fa096b737b.jpg",
+    "static/media/moment6.jpg": "/static/media/moment6.f0a0e71daa3722c63a1f.jpg",
+    "static/media/piano.jpg": "/static/media/piano.3789cebbde0ee6e0cf6e.jpg",
+    "static/media/moment3.jpg": "/static/media/moment3.aa7860f06ee4944b3155.jpg",
+    "static/media/moment4.jpg": "/static/media/moment4.f61f826811b4a5eba854.jpg",
+    "static/media/imgPrueba.png": "/static/media/imgPrueba.326d9c665ca7ee763c99.png",
+    "static/media/second.jpeg": "/static/media/second.8c0ba8ef523da3cc4fd7.jpeg",
+    "static/media/title.png": "/static/media/title.cdfb4feb61aff0a2f4ff.png",
+    "static/media/mainBg.webp": "/static/media/mainBg.044cda3d103d9c861ed6.webp",
+    "static/media/mainBg-small.webp": "/static/media/mainBg-small.cb9027380a38d6d3b19c.webp",
+    "static/media/mainBg-medium.webp": "/static/media/mainBg-medium.01b5711b03ce63caec82.webp",
+    "static/media/BG-2.jpg": "/static/media/BG-2.12a6e46073dd333cff6e.jpg",
+    "static/media/ws-icon.png": "/static/media/ws-icon.b30b05042d3de1ed4ddd.png",
+    "index.html": "/index.html",
+    "main.5a5f50ec.css.map": "/static/css/main.5a5f50ec.css.map",
+    "main.23e7ae6d.js.map": "/static/js/main.23e7ae6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a5f50ec.css",
+    "static/js/main.23e7ae6d.js"
+  ]
+}
