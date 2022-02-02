@@ -1,23 +1,18 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import Fifth from "./components/templates/fifth";
+import Fourth from "./components/templates/fourth";
+import Main from "./components/templates/main";
+import Second from "./components/templates/second";
+import Third from "./components/templates/third";
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Main />
+      <Second />
+      <Fourth />
+      <Third />
+      <Fifth />
     </div>
   );
 }
